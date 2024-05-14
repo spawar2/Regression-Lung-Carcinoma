@@ -1,4 +1,4 @@
-# Regression-Lung-Carcinoma
+# Regression-Lung-Carcinoma collaboration with Dr. Lahiri, Sunway University https://scholar.google.co.in/citations?user=cZaBPOoAAAAJ&hl=en
 [R: randomForest, caret]
 Evaluating performance of regression and classification models with prognostic markers in lung carcinomas
 
