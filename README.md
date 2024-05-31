@@ -12,3 +12,5 @@ International Work-Conference on Bioinformatics and Biomedical Engineering, Gran
 
 [Link](https://iwbbio.ugr.es/IWBBIO_2022_PROGRAM.pdf)
 [Link](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-5e06163d-8631-4535-940a-01fe508a9523)
+https://campuspress.yale.edu/shrikantpawar/files/2024/05/IWBBIO-2022.pptx
+https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
