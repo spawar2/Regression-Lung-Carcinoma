@@ -1,6 +1,6 @@
-# Regression-Lung-Carcinoma collaboration with Dr. Lahiri, Sunway University, Malaysia https://scholar.google.co.in/citations?user=cZaBPOoAAAAJ&hl=en
-[R: randomForest, caret]
-Evaluating performance of regression and classification models with prognostic markers in lung carcinomas
+# Regression-Lung-Carcinoma collaboration with Dr. Lahiri, Sunway University, Malaysia. https://scholar.google.co.in/citations?user=cZaBPOoAAAAJ&hl=en
+[R: randomForest, caret].
+Evaluating performance of regression and classification models with prognostic markers in lung carcinomas.
 <img width="844" alt="IWBBIO" src="https://github.com/spawar2/Regression-Lung-Carcinoma/assets/25118302/2b4d0c58-a38b-455a-98b8-ec9b7a59a7e4">
 <img width="169" alt="Bioinformatics and Biomedical Engineering" src="https://github.com/spawar2/Regression-Lung-Carcinoma/assets/25118302/b47119ce-9ea6-45ea-9ce1-c5b115d62340">
 
@@ -14,5 +14,5 @@ International Work-Conference on Bioinformatics and Biomedical Engineering, Gran
 [Link](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-5e06163d-8631-4535-940a-01fe508a9523)
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/IWBBIO-2022.pptx
 https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
-Claflin University, Orangeburg, South Carolina, USA 
+Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
