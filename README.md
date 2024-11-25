@@ -21,4 +21,4 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 Regression.R: Lung cancer Microarray data read, robust multi array (RMA) Normalization, LOGISTIC REGRESSION, Support vector machine, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC.
 selected function(neuralnet, colMedians, do.call, compute, randomForest, predict, confusionMatrix, svm, ggplot, predict, table, factor, glm, wald.test, as.numeric, sum).
 
-table(testing$V2,pred_test) Prediction_test alive dead alive 214 5 dead 31 11 ((214+11)/(nrow(testing)))*100 [1] 86.2069.
+Testing: table(testing$V2,pred_test) Prediction_test alive dead alive 214 5 dead 31 11 ((214+11)/(nrow(testing)))*100 [1] 86.2069.
